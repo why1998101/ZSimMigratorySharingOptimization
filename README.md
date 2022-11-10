@@ -1,9 +1,9 @@
-### Parallel Cache Simulator 
+## Multi-Core Cache Simulator with Different Cache Coherence Protocols
 
-##### by Zhuoyu Ji (zhuoyuj) and Haoyang Wang (haoyang4)
+###### by Zhuoyu Ji (zhuoyuj) and Haoyang Wang (haoyang4)
 
-#### We build a parallel cache simulator which supports snooping-based MESI, MESIF, and MOESI cache coherence schemes. We do experiments using the cache simulator to investigate how different schemes perform under different use patterns.
+#### We build a multi-core cache simulator which supports MESI, MESIF, and MOESI cache coherence protocols. We perform experiments using the cache simulator to investigate how different protocols perform under different use patterns.
 
-### Catalog of Deliverables
+### Catalog of Documents
 
-##### Proposal
+##### [Proposal](https://github.com/why1998101/ParallelCacheSimulator/blob/main/Project_Proposal.pdf)
