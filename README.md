@@ -1,8 +1,8 @@
-## Multi-Core Cache Simulator with Different Cache Coherence Protocols
+## MESIF vs. MESI in Multi-Core Cache Simulator
 
 ###### by Zhuoyu Ji (zhuoyuj) and Haoyang Wang (haoyang4)
 
-#### We build a multi-core cache simulator which supports MESI, MESIF, and MOESI cache coherence protocols. We perform experiments using the cache simulator to investigate how different protocols perform under different use patterns.
+#### We modify the zSim cache simulator to support the MESIF cache coherence protocol. We perform experiments to verfiy correctness of MESIF implementation and compare its performance with the default MESI protocol.
 
 ### Catalog of Documents
 
