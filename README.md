@@ -7,3 +7,10 @@
 ### Catalog of Documents
 
 ##### [Proposal](https://github.com/why1998101/ParallelCacheSimulator/blob/main/Project_Proposal.pdf)
+##### [Milestone](https://github.com/why1998101/ParallelCacheSimulator/blob/main/Milestone_Report.pdf)
+
+### References
+
+##### [zSim source](https://github.com/s5z/zsim)
+##### [Ziqi Wang's Article](https://wangziqi2013.github.io/article/2019/12/25/understand-zsim-cc-sim.html)
+
