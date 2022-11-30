@@ -12,5 +12,6 @@
 ### References
 
 ##### [zSim source](https://github.com/s5z/zsim)
+##### [zSim tutorial](http://zsim.csail.mit.edu/tutorial/)
 ##### [Ziqi Wang's Article](https://wangziqi2013.github.io/article/2019/12/25/understand-zsim-cc-sim.html)
 
