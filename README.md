@@ -6,8 +6,8 @@
 
 ### Deliverables
 
-#### 1. Modified ZSim source code with the migratory sharing optimization feature.
-#### 2. Multiple micro-benmark programs and ZSim outputs of running those micro-benchmarks.
+#### 1. Modified ZSim source code with the migratory sharing optimization feature added.
+#### 2. Multiple microbenmark programs and outputs of running those programs using ZSim.
 #### 3. A report with analysis on the optimization and experimental evaluation results.
 
 ### Schedule
@@ -15,8 +15,8 @@
 | ------------- | ------------- |
 | 12.2  | ZSim source code modification (DONE)  |
 | 12.6  | Haoyang: set up ZSim envrionments in Ubuntu 16.04 VM;    Zhuoyu: attempt to set up ZSim envrionments in AWS  |
-| 12.11  | Haoyang & Zhuoyu: each write two to three micro-benchmark programs, complie and run in the ZSim environments |
-| 12.14  | Haoyang & Zhuoyu: prepare ZSim config files and use ZSim to collect results of micro-benchmarking  |
+| 12.11  | Haoyang & Zhuoyu: each write two to three microbenchmark programs, complie and run in the ZSim environments |
+| 12.14  | Haoyang & Zhuoyu: prepare ZSim config files and use ZSim to collect results of running microbenmark programs  |
 | 12.17  | Haoyang & Zhuoyu: write reports and prepare for poster session |
 
 ### References
