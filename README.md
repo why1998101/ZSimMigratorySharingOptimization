@@ -15,8 +15,9 @@
 | ------------- | ------------- |
 | 12.2  | ZSim source code modification (DONE)  |
 | 12.6  | Haoyang: set up ZSim envrionments in Ubuntu 16.04 VM;    Zhuoyu: attempt to set up ZSim envrionments in AWS  |
-| 12.11  | Haoyang & Zhuoyu: each write two to three microbenchmark programs, complie and run in the ZSim environments |
-| 12.14  | Haoyang & Zhuoyu: prepare ZSim config files and use ZSim to collect results of running microbenmark programs  |
+| 12.9  | Haoyang & Zhuoyu: write first microbenchmark program, run using default and modified ZSim to verify improvement |
+| 12.12  | Haoyang & Zhuoyu: each write two additional microbenchmark programs with edge cases |
+| 12.15  | Haoyang & Zhuoyu: run additional microbenchmark programs using default and modified Zsim and collect results |
 | 12.17  | Haoyang & Zhuoyu: write reports and prepare for poster session |
 
 ### References
