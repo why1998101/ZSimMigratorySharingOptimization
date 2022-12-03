@@ -6,7 +6,7 @@
 
 ### Deliverables
 
-#### 1. Modified ZSim source code with the migratory sharing optimization feature added.
+#### 1. Modified ZSim source code with the migratory sharing optimization feature added. [DONE here](https://github.com/why1998101/zsim-MigratorySharing)
 #### 2. Multiple microbenmark programs and outputs of running those programs using ZSim.
 #### 3. A report with analysis on the optimization and experimental evaluation results.
 
