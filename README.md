@@ -2,7 +2,7 @@
 
 ###### by Zhuoyu Ji (zhuoyuj) and Haoyang Wang (haoyang4)
 
-#### We modify the ZSim cache simulator to add a migratory sharing optimization feature. This feature implements an algorithm to detect migratory objects. When migratory objects are detected, it improves performance by reducing the number of invalidation workflows in the cache system.
+#### We modify the ZSim cache simulator to add a migratory sharing optimization feature. This feature implements an algorithm to detect migratory objects. When migratory objects are detected, it improves performance by reducing the number of invalidations and "read-exclusive upgrade misses" in the cache system.
 
 ### Deliverables
 
@@ -14,11 +14,11 @@
 | Date by  | Tasks |
 | ------------- | ------------- |
 | 12.2  | ZSim source code modification (DONE)  |
-| 12.6  | Haoyang: set up ZSim envrionments in Ubuntu 16.04 VM and verify run of our modified code (DONE)<br />   Zhuoyu: attempt to set up ZSim envrionments in AWS (OPTIONAL)  |
-| 12.9  | Haoyang & Zhuoyu: write first microbenchmark program, run using default and modified ZSim to verify improvement (DONE) |
-| 12.12  | Haoyang & Zhuoyu: each write two additional microbenchmark programs with edge cases |
-| 12.15  | Haoyang & Zhuoyu: run additional microbenchmark programs using default and modified Zsim and collect results |
-| 12.17  | Haoyang & Zhuoyu: write reports and prepare for poster session |
+| 12.6  | Haoyang: set up ZSim envrionments in Ubuntu 16.04 VM and test modified code with provided test (DONE)<br />   Zhuoyu: attempt to set up ZSim envrionments in AWS (OPTIONAL)  |
+| 12.9  | BOTH: write first pair of microbenchmark programs, run using default and modified ZSim to verify improvement and correctness (DONE) |
+| 12.12  | BOTH: write additional microbenchmark programs with more migratory access patterns and edge cases |
+| 12.14  | BOTH: run additional microbenchmark programs using default and modified Zsim and collect results |
+| 12.17  | BOTH: write reports and prepare for poster session |
 
 ### References
 
