@@ -36,4 +36,4 @@ This project was originally targeting on other optimization directions on ZSim a
 
 ### Notes
 
-The official ZSim source code can NOT run on envrionment after Ubuntu 12.04 and the envrionment is extremely difficult to configure, if you are interested in using ZSim, we recommend Ziqi Wang's zsim-base (link in References) which fixes many issues and is runnable in Ubuntu 16.04.
+The official ZSim source code can hardly run on environments after Ubuntu 12.04 and the environments is extremely difficult to configure, if you are interested in using ZSim, we recommend Ziqi Wang's zsim-base (link in References), which fixes many issues and is runnable in Ubuntu 16.04.
