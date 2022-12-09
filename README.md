@@ -29,7 +29,11 @@
 
 ### Legacy Documents
 
-###### This project was originally targeting on other optimization directions on ZSim as shown in those legacy documents.
+This project was originally targeting on other optimization directions on ZSim as shown in those legacy documents.\
+ \
+[Proposal](https://github.com/why1998101/ParallelCacheSimulator/blob/main/Project_Proposal.pdf)\
+[Milestone](https://github.com/why1998101/ParallelCacheSimulator/blob/main/Milestone_Report.pdf)
 
-##### [Proposal](https://github.com/why1998101/ParallelCacheSimulator/blob/main/Project_Proposal.pdf)
-##### [Milestone](https://github.com/why1998101/ParallelCacheSimulator/blob/main/Milestone_Report.pdf)
+### Notes
+
+The official ZSim source code can NOT run on envrionment after Ubuntu 12.04 and the envrionment is extremely difficult to configure, if you are interested in using ZSim, we recommend Ziqi Wang's zsim-base (link in References) which fixes many issues and is runnable in Ubuntu 16.04.
