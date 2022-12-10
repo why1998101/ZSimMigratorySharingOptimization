@@ -14,9 +14,9 @@
 | Date by  | Tasks |
 | ------------- | ------------- |
 | 12.2  | ZSim source code modification (DONE)  |
-| 12.6  | Haoyang: set up ZSim envrionments in Ubuntu 16.04 VM and test modified code with provided test (DONE)<br />   Zhuoyu: attempt to set up ZSim envrionments in AWS (DONE)  |
+| 12.6  | Haoyang: set up ZSim envrionments in Ubuntu 16.04 VM and test modified code with provided test (DONE)<br />   Zhuoyu: set up ZSim envrionments in AWS and check performance (DONE)  |
 | 12.9  | BOTH: write first pair of microbenchmark programs, run using default and modified ZSim to verify improvement and correctness (DONE) |
-| 12.12  | BOTH: write additional microbenchmark programs with more migratory access patterns and edge cases |
+| 12.12  | BOTH: write additional microbenchmark programs with more migratory access patterns and edge cases (DONE) |
 | 12.14  | BOTH: run additional microbenchmark programs using default and modified Zsim and collect results |
 | 12.17  | BOTH: write reports and prepare for poster session |
 
