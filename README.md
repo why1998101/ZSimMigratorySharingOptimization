@@ -7,7 +7,7 @@
 ### Deliverables
 
 #### 1. Modified ZSim source code with the migratory sharing optimization feature added. [DONE here](https://github.com/why1998101/zsim-optimized)
-#### 2. Multiple microbenmark programs and outputs of running those programs using both default and our modified ZSim. [In Progress here](https://github.com/why1998101/zsim-benchmarks)
+#### 2. Multiple microbenmark programs and outputs of running those programs using both default and our modified ZSim. [DONE here](https://github.com/why1998101/zsim-benchmarks)
 #### 3. A report with analysis on the optimization and experimental evaluation results.
 
 ### Schedule
@@ -17,7 +17,7 @@
 | 12.6  | Haoyang: set up ZSim envrionments in Ubuntu 16.04 VM and test modified code with provided test (DONE)<br />   Zhuoyu: set up ZSim envrionments in AWS and check performance (DONE)  |
 | 12.9  | BOTH: write first pair of microbenchmark programs, run using default and modified ZSim to verify improvement and correctness (DONE) |
 | 12.12  | BOTH: write additional microbenchmark programs with more migratory access patterns and edge cases (DONE) |
-| 12.14  | BOTH: run additional microbenchmark programs using default and modified Zsim and collect results |
+| 12.14  | BOTH: run additional microbenchmark programs using default and modified Zsim and collect results (DONE) |
 | 12.17  | BOTH: write reports and prepare for poster session |
 
 ### References
